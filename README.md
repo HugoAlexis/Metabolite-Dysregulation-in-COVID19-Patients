@@ -27,13 +27,13 @@ The data were originally collected by Yamilé López et al. (2021) from a sample
 
 ![Metabolites dysregulated](images/covid_vs_healthy_metabolite_levels.png)
 
-Fourteen metabolites showed significantly decreased levels in COVID-19 patients compared to healthy controls ($p < 0.01$), acording with the t-test for two independent samples. The effect sizes were moderate to large, ranging from 0.52 to 1.02 according to Cohen's d.
+Fourteen metabolites showed significantly decreased levels in COVID-19 patients compared to healthy controls ($p < 0.01$), according with a t-test for two independent samples. The effect sizes were moderate to large, ranging from 0.52 to 1.02 according to Cohen's d.
 
 ![Metabolites downregulated](images/metabolites_downregulated.png)
 
 Overall, downregulation of these metabolites in COVID-19 patients suggests potential disruptions in various cellular processes, energy metabolism, and possibly the immune response. However, more research is required to fully understand the specific implications for disease progression and potential therapeutic interventions.
 
-Also, fourteen metabolites showd significantly increased levels in COVID-19 patiens compared to healthy controls ($p < 0.01$), according with the t-test for two independent samples. The effect sizes were also moderate to large, ranging from 0.52 to 1.37 standard deviations, according to Cohen's d.
+Also, fourteen metabolites showed significantly increased levels in COVID-19 patiens compared to healthy controls ($p < 0.01$), according with a t-test for two independent samples. The effect sizes were also moderate to large, ranging from 0.52 to 1.37 standard deviations, according to Cohen's d.
 
 ![Metabolites upregulated](images/metabolites_upregulated.png)
 
